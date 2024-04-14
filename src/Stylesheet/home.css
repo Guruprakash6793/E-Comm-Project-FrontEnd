@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+}
+#home_nav{
+    background-color: rgb(3, 3, 53);
+}
+
+#dpdn-menu{
+    display:none;
+    max-width:100px;
+    height:100px;
+    background-color: rgb(14, 14, 15);
+    color:white;
+    border:2px solid white;
+
+}
+
+
+#dpdn-btn:checked ~ #dpdn-menu{
+    display: block;
+}

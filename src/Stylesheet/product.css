@@ -1,0 +1,27 @@
+label{
+    font-weight: bold;
+}
+.productform{
+    background-color: #176B87;
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    
+}
+ form > input{
+ 
+    font-size: larger;
+    font-weight: 500;
+   background-color: transparent;
+    border-bottom: 2px solid black;
+    min-width:300px;
+    padding: 5px;
+    margin-left: 15px;
+    outline:none;
+}
+
+ .product img{
+    border:2px solid black;
+
+}
+
